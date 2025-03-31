@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently enjoying life and learning coding.<br>I am currently learning web development with gen AI.<br>Would love to collaborate and contribute.
+"Wake. Code. Sleep. Repeat."
+
+
 
 
 ## 🌐 Socials:
