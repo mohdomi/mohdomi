@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Wake. Code. Sleep. Repeat."
+"Eat. Sleep. Code. Repeat."
 
 
 
